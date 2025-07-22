@@ -30,8 +30,11 @@ F1 Score           	88.9%
 <img width="940" height="266" alt="image" src="https://github.com/user-attachments/assets/bec77b9c-a41e-4bf6-af65-0206423add61" />
 
 on test data-
+
 <img width="940" height="137" alt="image" src="https://github.com/user-attachments/assets/3e97743e-0b92-4719-b104-9bb337a59ff7" />
 
+Sample prediction-
+<img width="592" height="728" alt="image" src="https://github.com/user-attachments/assets/8ff8fdcb-963a-4e69-a474-fc6567ac96e8" />
 
 
 
